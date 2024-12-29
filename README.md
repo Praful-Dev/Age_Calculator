@@ -11,11 +11,9 @@ A simple web-based age calculator that allows users to input their birthdate and
 - Styled with a clean and responsive design.
 
 ## Project Structure
-├── index.html 
-# Main HTML file 
-├── style.css 
-# CSS styles 
-└── README.md #
+├── index.html.
+├── style.css.
+└── README.md.
 
 
 ## Usage
